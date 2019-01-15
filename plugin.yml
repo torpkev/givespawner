@@ -1,0 +1,9 @@
+name: GiveSpawner
+main: work.torp.givespawner.Main
+version: 1.0
+api-version: 1.13
+commands:
+   givespawner:
+      description: Runs the /givespawner command
+      usage: /givespawner
+      aliases: [gs]
